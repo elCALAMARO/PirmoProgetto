@@ -19,7 +19,7 @@ namespace ProgettoStupido
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hellp" + textBox1.Text0);
+            MessageBox.Show("hello" + textBox1.Text);
         }
     }
 }
